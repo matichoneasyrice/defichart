@@ -1,0 +1,1 @@
+fetch('https://www.goosedefi.com/layeredFarming/2/incubators')
